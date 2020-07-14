@@ -1,0 +1,7 @@
+name: EndPortal
+version: ${project.version}
+main: net.bghd.portal.endportal.EndPortal
+api-version: 1.16
+authors: [BGHDDevelopment]
+description: Disables the end portal
+website: https://bghddevelopment.com
